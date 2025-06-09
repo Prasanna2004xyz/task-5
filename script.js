@@ -1,1 +1,3 @@
-document.addEventListener('DOMContentLoaded', function() { console.log('Static website loaded.'); });
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Static website loaded.');
+});
