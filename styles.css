@@ -1,1 +1,25 @@
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; }\nheader { background: #4CAF50; color: white; padding: 1em; text-align: center; }\nmain { padding: 2em; }\nfooter { text-align: center; padding: 1em; background: #f1f1f1; position: relative; bottom: 0; width: 100%; }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    padding: 2em;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background: #f1f1f1;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
